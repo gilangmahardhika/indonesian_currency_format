@@ -1,12 +1,13 @@
 # IndonesianCurrencyFormat
 
-TODO: Write a gem description
+Indonesia Currency Format
+Convert plain integer to Indonesian rupiah format
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'indonesian_currency_format'
+    gem 'indonesian_currency_format', '~>0.0.2'
 
 And then execute:
 
@@ -18,12 +19,5 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
-
-## Contributing
-
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+		rupiah_convert(1000) # Rp 1.000
+		idr_convert(1000) IDR 1.000
