@@ -1,10 +1,10 @@
 # IndonesianCurrencyFormat
 
-	[![Gem Version](https://badge.fury.io/rb/indonesian_currency_format.png)](http://badge.fury.io/rb/indonesian_currency_format)
+[![Gem Version](https://badge.fury.io/rb/indonesian_currency_format.png)](http://badge.fury.io/rb/indonesian_currency_format)
 
-	Indonesia Currency Format
+Indonesia Currency Format
 
-	Convert plain integer to Indonesian rupiah format
+Convert plain integer to Indonesian rupiah format
 
 ## Installation
 
@@ -21,6 +21,8 @@ Or install it yourself as:
     $ gem install indonesian_currency_format
 
 ## Usage
+in your view
 
 		rupiah_convert(1000) # Rp 1.000
+		
 		idr_convert(1000) IDR 1.000
