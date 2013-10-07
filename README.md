@@ -1,7 +1,10 @@
 # IndonesianCurrencyFormat
 
-Indonesia Currency Format
-Convert plain integer to Indonesian rupiah format
+	[![Gem Version](https://badge.fury.io/rb/indonesian_currency_format.png)](http://badge.fury.io/rb/indonesian_currency_format)
+
+	Indonesia Currency Format
+
+	Convert plain integer to Indonesian rupiah format
 
 ## Installation
 
