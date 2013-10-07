@@ -1,2 +1,2 @@
 require "indonesian_currency_format/version"
-require 'my_gem/railtie' if defined?(Rails)
+require 'indonesian_currency_format/railtie' if defined?(Rails)
